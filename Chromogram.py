@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the audio file
-audio_file = 'TESS Toronto emotional speech set data\OAF_angry\OAF_back_angry.wav'
+audio_file = 'TESS Toronto emotional speech set data/OAF_angry/OAF_back_angry.wav'
 data, sr = librosa.load(audio_file)
 chroma = librosa.feature.chroma_stft(y=data, sr=sr)
 
