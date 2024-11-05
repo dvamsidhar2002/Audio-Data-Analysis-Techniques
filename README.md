@@ -7,5 +7,5 @@ Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-t
 <img src='Waveform.png'>
 <img src='Spectrogram.png'>
 <img src='Chromogram.png'>
-<img src='Amplitude_over_time.png'>
+<img src='Amplitude_by_time.png'>
 <img src='MFCC.png'>
