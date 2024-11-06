@@ -9,3 +9,4 @@ Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-t
 <img src='Chromogram.png'>
 <img src='Amplitude_by_time.png'>
 <img src='MFCC.png'>
+<img src='Fast_Fourier_Transform - Power Spectrum.png'>
