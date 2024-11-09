@@ -4,7 +4,7 @@ This repository contains data preprocessing and analysis techniques for audio da
 
 Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <img src='Waveform.png' width="350">
   <img src='Spectrogram.png' width="350">
   <img src='Chromogram.png' width="350">
