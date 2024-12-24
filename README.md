@@ -2,6 +2,11 @@
 
 This repository contains data preprocessing and analysis techniques for audio data.
 
+```mermaid
+flowchart TD
+A[Audio Data Analysis and Preprocessing] --> B[Statistical Analysis]
+A[Audio Data Analysis and Preprocessing] --> C[Temporal Analysis]
+```
 Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
 
