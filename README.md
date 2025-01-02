@@ -10,6 +10,7 @@ A[Audio Data Analysis and Preprocessing] --> C[Temporal Analysis]
 Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
 
+
 <div style="display: flex; gap: 20px;">
   <img src='Waveform.png' width="350">
   <img src='Spectrogram.png' width="350">
