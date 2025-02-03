@@ -27,6 +27,3 @@ Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-t
   <img src="https://contrib.rocks/image?repo=dvamsidhar2002/Audio-Data-Analysis-Techniques" />
 </a>
 
-<a href = "https://github.com/dvamsidhar2002/Audio-Data-Analysis-Techniques/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = dvamsidhar2002/Audio-Data-Analysis-Techniques"/>
-</a>
