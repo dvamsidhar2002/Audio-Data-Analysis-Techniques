@@ -6,8 +6,6 @@ This repository contains data preprocessing and analysis techniques for audio da
 flowchart TD
 A[Audio Data Analysis and Preprocessing] --> B[Statistical Analysis]
 A[Audio Data Analysis and Preprocessing] --> C[Temporal Analysis]
-B[Statistical Analysis] --> E[Descriptive Analytics]
-B[Statistical Analysis] --> F[Mean, Median and Variance]
 ```
 Data used: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
